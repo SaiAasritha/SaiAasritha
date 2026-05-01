@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi there 👋<br>I’m a Front-End Developer who loves building clean and responsive web applications. Currently learning backend development to become a full-stack developer.<br><br>I’m also passionate about AI and Machine Learning, and I enjoy exploring how they can be used to create smarter and more impactful applications.
+Hi there 👋<br>I’m a Full-Stack Developer who loves building clean and responsive web applications.
+<br><br>I’m passionate about creating user-friendly interfaces and developing scalable backend systems. I’m also interested in AI and Machine Learning, and I enjoy exploring how they can be used to build smarter and more impactful applications.
 
 
 # 💻 Tech Stack:
